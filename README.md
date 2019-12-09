@@ -2,7 +2,7 @@
 
 
 TheForgeCodeKataGrocery
-This is a kata for the checkout order total kata. 
+This is a kata for the checkout order total kata. I have written in python.
 
 Dependencies:
 
