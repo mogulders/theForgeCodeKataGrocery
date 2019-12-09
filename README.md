@@ -4,11 +4,13 @@
 TheForgeCodeKataGrocery
 This is a kata for the checkout order total kata. 
 
-Dependencies
+Dependencies:
+
 I only have one dependency and it’s for reading in excel file information.
 pip install xlrd
 
-Running the tests
+Running the tests:
+
 I have included an if name == main statement in my test code so that I could run my tests in my IDE. 
 Deployment
 Add additional notes about how to deploy this on a live system
